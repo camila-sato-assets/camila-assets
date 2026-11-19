@@ -16,12 +16,6 @@ Example:
 https://raw.githubusercontent.com/pliniomartos/camila-assets/main/instagram/v4/post-06-white-drape.png
 ```
 
-If GitHub Pages is enabled on this repo, the same path also works at:
-
-```
-https://pliniomartos.github.io/camila-assets/instagram/<version>/<filename>
-```
-
 ## Layout
 
 - `instagram/v4/` — 4:5 Instagram feed images from the v4 batch (unsent posts 06–12 at first publish).
